@@ -1,0 +1,1 @@
+[{"id":"35396c70-1752-4b82-8ce6-6b36b70339d3","indexName":"microservice","message":"This is the log line of the service","level":"INFO","timestamp":1742749391086},{"id":"e16f5f6e-276e-49b2-a2df-2ed40a1c2ee3","indexName":"microservice","message":"This is the error log line of the service","level":"ERROR","timestamp":1742749431199}]
